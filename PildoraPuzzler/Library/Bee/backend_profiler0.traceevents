@@ -1,0 +1,399 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698469087291637, "dur":1915, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087293570, "dur":212, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1698469087293829, "dur":43, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1698469087293873, "dur":1169, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1698469087295097, "dur":1679, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087296776, "dur":3, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508054, "dur":766, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508820, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508848, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508854, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508868, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508872, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508889, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508893, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508906, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508909, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508923, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508928, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508941, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508946, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508961, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508966, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508980, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508986, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087508998, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509002, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509015, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509019, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509033, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509038, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509053, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509057, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509070, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509074, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509087, "dur":7, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509094, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509106, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509110, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509123, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509182, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087509236, "dur":2513, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698469087294642, "dur":2154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087296799, "dur":2697, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299508, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299512, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299603, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299611, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299642, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299673, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299709, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299836, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299881, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299935, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087299974, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300018, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300059, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300091, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300128, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300166, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300320, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300341, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300374, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300405, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300432, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300461, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300489, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300513, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300536, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698469087300567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698469087301199, "dur":77481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698469087378703, "dur":129377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087294689, "dur":2118, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087296807, "dur":2704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299512, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299630, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299661, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299715, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299825, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299871, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299907, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299933, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087299967, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300011, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300056, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300084, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300142, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300174, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087300338, "dur":96345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698469087396684, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698469087396729, "dur":111337, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087294755, "dur":2207, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087296963, "dur":2561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087299525, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698469087299608, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087299666, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1698469087299854, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300025, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300083, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300126, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300306, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300402, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300452, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300492, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300542, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300583, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300850, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087300892, "dur":1873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1698469087302765, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087302801, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698469087302829, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087302834, "dur":10845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698469087313707, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1698469087313793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087313799, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1698469087316983, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698469087317009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698469087317014, "dur":1745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698469087318782, "dur":189276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087294813, "dur":2183, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087296997, "dur":2507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299509, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299607, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299648, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299696, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299736, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299897, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087299955, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300006, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300049, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300099, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300134, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300177, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087300350, "dur":207560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698469087507911, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698469087507986, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1698469087507988, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087294866, "dur":2140, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087297006, "dur":2494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299509, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299632, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299663, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299887, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299916, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299963, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087299999, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300036, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300074, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300117, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300159, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300347, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300422, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300463, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300492, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300527, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300554, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1698469087300674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087314727, "dur":3346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1698469087318598, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1698469087318879, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698469087318916, "dur":189135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087294892, "dur":2120, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087297012, "dur":2505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299519, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299656, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299867, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299913, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299939, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087299997, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300031, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300066, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300127, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300364, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300419, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300455, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300485, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300517, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300547, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698469087300671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698469087313935, "dur":5464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698469087319428, "dur":188636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087294935, "dur":2084, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087297019, "dur":2487, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299507, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299701, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299830, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299857, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299952, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698469087299990, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087300018, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698469087300072, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087300110, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698469087300180, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087300336, "dur":116274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698469087416610, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698469087416638, "dur":91405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087295008, "dur":2019, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087297027, "dur":2500, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299528, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299663, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299694, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299730, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299855, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299889, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299924, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299949, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087299992, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300027, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300064, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300089, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300123, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300147, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300180, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300363, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300408, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300469, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300506, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1698469087300657, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087302181, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1698469087304436, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698469087304474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087304482, "dur":8919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698469087313443, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698469087313501, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087313519, "dur":2809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698469087316356, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698469087316392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087316405, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698469087318577, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1698469087319393, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698469087319401, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1698469087321313, "dur":186735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087295060, "dur":1972, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087297033, "dur":2464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087299508, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1698469087299612, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087299676, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1698469087299851, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300013, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300053, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300096, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300137, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300170, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300331, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300357, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300388, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300446, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300485, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300528, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1698469087300680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698469087329365, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1698469087330455, "dur":177628, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087295093, "dur":1946, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087297039, "dur":2474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299513, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299644, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299683, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299816, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299834, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299874, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299901, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299928, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087299970, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300001, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300036, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300072, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300121, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300164, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300344, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300411, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300434, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300464, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300490, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300508, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300529, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300566, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087300929, "dur":14199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1698469087315150, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698469087315182, "dur":14, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087315200, "dur":3318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698469087318550, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1698469087318591, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698469087318654, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1698469087320469, "dur":187585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087295399, "dur":1686, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087297085, "dur":2422, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087299508, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1698469087299600, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087299849, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300006, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300048, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300126, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300170, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300347, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300377, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300421, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300449, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300475, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087300498, "dur":47679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698469087348178, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698469087348303, "dur":159767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087295176, "dur":1870, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087297047, "dur":2473, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087299523, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1698469087299618, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087299669, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler.exe" }}
+,{ "pid":12345, "tid":12, "ts":1698469087299854, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087299923, "dur":149124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698469087449048, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698469087449100, "dur":58975, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087295205, "dur":1847, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087297053, "dur":2456, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299510, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299614, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299649, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299679, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299711, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299833, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299865, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299889, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299921, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299956, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087299988, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300014, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300055, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300086, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300127, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300152, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300310, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300328, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300355, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300379, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300402, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300442, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300464, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300500, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300524, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1698469087300646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087301716, "dur":13481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1698469087315221, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1698469087315254, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698469087315259, "dur":4374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1698469087319658, "dur":188410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087295254, "dur":1807, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087297061, "dur":2441, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299509, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299626, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299659, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299702, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299734, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299842, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299884, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299914, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299949, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087299981, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300016, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300051, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300080, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300131, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300164, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300325, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087300348, "dur":103925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698469087404273, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698469087404299, "dur":103762, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087295285, "dur":1785, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087297070, "dur":2451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299526, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299648, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299703, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299727, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299858, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299919, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299953, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087299993, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087300034, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087300076, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087300141, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087300175, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087300335, "dur":60193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698469087360529, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698469087360588, "dur":147488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087295349, "dur":1729, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087297079, "dur":2436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087299516, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1698469087299647, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087299680, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698469087299848, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300031, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300119, "dur":234, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300355, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300413, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300459, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300502, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300539, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":16, "ts":1698469087300685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698469087341263, "dur":3751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"EjecutableMasDocumento/PildoraPuzzler_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":16, "ts":1698469087345066, "dur":163006, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698469087514059, "dur":2968, "ph":"X", "name": "ProfilerWriteOutput" }
+,
