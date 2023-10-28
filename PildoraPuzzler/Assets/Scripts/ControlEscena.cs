@@ -7,6 +7,7 @@ public class ControlEscena : MonoBehaviour
 {
     public void CambioEscena(int N_escena)
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(N_escena);
     }
 

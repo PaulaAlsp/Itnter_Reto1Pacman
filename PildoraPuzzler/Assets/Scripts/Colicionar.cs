@@ -24,15 +24,15 @@ public class Colicionar : MonoBehaviour
 
     public void actiPanel()
     {
+        Time.timeScale = 0f;
         if (puntaje.text == "GameOver")
-        {
-            panelLose.gameObject.SetActive(true);
-        }
-        else
         {
             panelWin.gameObject.SetActive(true);
         }
-        Time.timeScale = 0f;
+        else
+        {
+            panelLose.gameObject.SetActive(true);
+        }
     }
 
     public void verCereza()
@@ -49,8 +49,7 @@ public class Colicionar : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Fantasma"))
         {
-            pacmanAnimator.SetBool("destruido", true);
-            //Animation event (crear)
+            pacmanAnimator.SetBool("destruido", true); //Animation event (Adios Jugador)
             puntaje.text = "GameOver";
             StartCoroutine(EsperarXSegundos(1f));
         }
@@ -74,7 +73,6 @@ public class Colicionar : MonoBehaviour
             puntos += 1;
             puntaje.text = "Score: " + puntos.ToString();
             Destroy(other.gameObject);
-
             if (puntos == 15)
             {
                 verCereza();
