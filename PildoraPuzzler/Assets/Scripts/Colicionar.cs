@@ -25,7 +25,7 @@ public class Colicionar : MonoBehaviour
     public void actiPanel()
     {
         Time.timeScale = 0f;
-        if (puntaje.text == "GameOver")
+        if (puntaje.text == "WIN")
         {
             panelWin.gameObject.SetActive(true);
         }

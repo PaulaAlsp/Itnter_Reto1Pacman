@@ -7253,6 +7253,26 @@ PrefabInstance:
       propertyPath: m_text
       value: Inicio
       objectReference: {fileID: 0}
+    - target: {fileID: 9133106291035995804, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133106291035995804, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1924168824}
+    - target: {fileID: 9133106291035995804, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CambioEscena
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133106291035995804, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: ControlEscena, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133106291035995804, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 9133106291035995805, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -7348,6 +7368,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 9133106291035995805, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
   m_PrefabInstance: {fileID: 1924168822}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1924168824 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 151073070729046093, guid: 1ef5493a7726cd5419ba3c452163c1e9, type: 3}
+  m_PrefabInstance: {fileID: 1924168822}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31819b3473a8a92438d62402e3a84049, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1931392433
 GameObject:
   m_ObjectHideFlags: 0
